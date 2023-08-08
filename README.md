@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beshoyashraf63&label=Profile%20views&color=0e75b6&style=flat" alt="beshoyashraf63" /> </p>
 
-- 🔭 I’m currently working on **FOTA Ethernet GP project**
-
-- 🌱 I’m currently learning **Embedded Systems and AUTOSAR**
-
+- 🔭 Embedded Software Engineer
 - 📫 How to reach me **beshoyashraffaheem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
